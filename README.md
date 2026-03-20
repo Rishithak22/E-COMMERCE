@@ -4,7 +4,7 @@ A modern and responsive **E-Commerce Frontend Project** built using HTML, CSS, a
 This project showcases a clean UI design with multiple pages like Home, Products, Cart, and About.
 
 🔗 **Live Demo:**
-👉 [https://rishithak22.github.io/E-COMMERCE/](https://rishithak22.github.io/E-COMMERCE/about.html)
+👉 https://rishithak22.github.io/E-COMMERCE/index.html
 
 ---
 
